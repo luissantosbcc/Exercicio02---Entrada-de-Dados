@@ -1,0 +1,13 @@
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\bin\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.exe
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\bin\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.deps.json
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\bin\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.runtimeconfig.json
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\bin\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.runtimeconfig.dev.json
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\bin\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.dll
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\bin\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.pdb
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\obj\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.csprojAssemblyReference.cache
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\obj\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\obj\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.AssemblyInfoInputs.cache
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\obj\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.AssemblyInfo.cs
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\obj\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.dll
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\obj\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.pdb
+C:\Users\E156\Documents\ws_vs2020\Exercicio02 - Entrada de Dados\Exercicio02 - Entrada de Dados\obj\Debug\netcoreapp3.1\Exercicio02 - Entrada de Dados.genruntimeconfig.cache
